@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction
 
-Data Dictionary /n
+Data Dictionary
 | Variable | Definition	| Key |
 | --- | --- | --- | 
 | survival | Survival | 0 = No, 1 = Yes |
@@ -13,3 +13,4 @@ Data Dictionary /n
 | fare |	Passenger fare ||
 | cabin |	Cabin number ||
 | embarked |	Port of Embarkation |	C = Cherbourg, Q = Queenstown, S = Southampton |
+
